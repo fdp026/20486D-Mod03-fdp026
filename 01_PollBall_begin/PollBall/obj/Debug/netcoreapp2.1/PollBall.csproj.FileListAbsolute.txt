@@ -1,0 +1,16 @@
+C:\Users\phill_000\source\repos\20486D-Mod03-fdp026\01_PollBall_begin\PollBall\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\phill_000\source\repos\20486D-Mod03-fdp026\01_PollBall_begin\PollBall\bin\Debug\netcoreapp2.1\PollBall.deps.json
+C:\Users\phill_000\source\repos\20486D-Mod03-fdp026\01_PollBall_begin\PollBall\bin\Debug\netcoreapp2.1\PollBall.runtimeconfig.json
+C:\Users\phill_000\source\repos\20486D-Mod03-fdp026\01_PollBall_begin\PollBall\bin\Debug\netcoreapp2.1\PollBall.runtimeconfig.dev.json
+C:\Users\phill_000\source\repos\20486D-Mod03-fdp026\01_PollBall_begin\PollBall\bin\Debug\netcoreapp2.1\PollBall.dll
+C:\Users\phill_000\source\repos\20486D-Mod03-fdp026\01_PollBall_begin\PollBall\bin\Debug\netcoreapp2.1\PollBall.pdb
+C:\Users\phill_000\source\repos\20486D-Mod03-fdp026\01_PollBall_begin\PollBall\obj\Debug\netcoreapp2.1\PollBall.csprojAssemblyReference.cache
+C:\Users\phill_000\source\repos\20486D-Mod03-fdp026\01_PollBall_begin\PollBall\obj\Debug\netcoreapp2.1\PollBall.AssemblyInfoInputs.cache
+C:\Users\phill_000\source\repos\20486D-Mod03-fdp026\01_PollBall_begin\PollBall\obj\Debug\netcoreapp2.1\PollBall.AssemblyInfo.cs
+C:\Users\phill_000\source\repos\20486D-Mod03-fdp026\01_PollBall_begin\PollBall\obj\Debug\netcoreapp2.1\PollBall.csproj.CoreCompileInputs.cache
+C:\Users\phill_000\source\repos\20486D-Mod03-fdp026\01_PollBall_begin\PollBall\obj\Debug\netcoreapp2.1\PollBall.RazorAssemblyInfo.cache
+C:\Users\phill_000\source\repos\20486D-Mod03-fdp026\01_PollBall_begin\PollBall\obj\Debug\netcoreapp2.1\PollBall.RazorAssemblyInfo.cs
+C:\Users\phill_000\source\repos\20486D-Mod03-fdp026\01_PollBall_begin\PollBall\obj\Debug\netcoreapp2.1\PollBall.RazorTargetAssemblyInfo.cache
+C:\Users\phill_000\source\repos\20486D-Mod03-fdp026\01_PollBall_begin\PollBall\obj\Debug\netcoreapp2.1\PollBall.dll
+C:\Users\phill_000\source\repos\20486D-Mod03-fdp026\01_PollBall_begin\PollBall\obj\Debug\netcoreapp2.1\PollBall.pdb
+C:\Users\phill_000\source\repos\20486D-Mod03-fdp026\01_PollBall_begin\PollBall\obj\Debug\netcoreapp2.1\PollBall.genruntimeconfig.cache
